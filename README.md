@@ -11,5 +11,5 @@ cp keychron-k6.json.erb ~/.config/karabiner/assets/complex_modifications
 
 ## Features
 
-- Map escapce to `
+- Map escape to `
 - Map ctrl + escape to escape
