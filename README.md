@@ -8,3 +8,8 @@ Karabiner Elements Complex Modifications for Keychron K6
 ```
 cp keychron-k6.json.erb ~/.config/karabiner/assets/complex_modifications
 ```
+
+## Features
+
+- Map escapce to `
+- Map ctrl + escape to escape
